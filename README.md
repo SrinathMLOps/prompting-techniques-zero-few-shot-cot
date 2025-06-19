@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Prompt Engineering Examples
 
 This repository contains Python scripts demonstrating three common prompt engineering techniques:
@@ -148,4 +148,4 @@ git remote add origin https://github.com/<your-username>/prompt-engineering-exam
 git add .
 git commit -m "Initial commit: Zero-shot, Few-shot, CoT examples"
 git push -u origin main
->>>>>>> 45dd62ccf15b2d882dd04bc61bab35f09197863b
+
