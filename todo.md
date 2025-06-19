@@ -1,0 +1,6 @@
+- [x] Set up project directory and create requirements.txt
+- [x] Create zero-shot prompting script
+- [x] Create few-shot prompting script
+- [x] Create CoT prompting script
+- [x] Install dependencies
+- [x] Test all scripts for error-free execution
