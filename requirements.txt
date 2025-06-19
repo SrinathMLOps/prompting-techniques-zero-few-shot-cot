@@ -2,3 +2,7 @@ transformers
 torch
 accelerate
 sentencepiece
+transformers==4.40.1
+torch>=1.13.0
+pip install -r requirements.txt
+
